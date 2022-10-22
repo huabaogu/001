@@ -1,2 +1,1 @@
-tingdian001:python001
-huabaogu:python001
+{'a': '1', 'b': '2', 'c': '3'}
